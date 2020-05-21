@@ -14,6 +14,9 @@ The instructions 0x9a and 0xea have inverted operands. The correct representatio
 
 This same mistake slipped into my sequel book.
 
+James Cross found a small difference in sieve.asm between the book and the Git,
+also a small bug on page 28, where the byte count shown is 123 instead of 121.
+
 
 NOTES:
 

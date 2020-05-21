@@ -37,7 +37,6 @@ p4:	add bx,ax
 p3:	inc ax
 	cmp ax,table_size
 	jne p2
-	int 0x20
 	; Add library2.asm
 
 	; Save this library as library2.asm

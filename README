@@ -2,7 +2,7 @@ Programming Boot Sector Games
 by Oscar Toledo G.
 http://nanochess.org/
 
-ERRATA FOR THE BOOK: (Apr/15/2020)
+ERRATA FOR THE BOOK: (Aug/31/2020)
 
 Even though all my efforts, Craig Turner found a pair of mistakes on the
 instruction set appendix.
@@ -16,6 +16,8 @@ This same mistake slipped into my sequel book.
 
 James Cross found a small difference in sieve.asm between the book and the Git,
 also a small bug on page 28, where the byte count shown is 123 instead of 121.
+
+Daniel @netsurf916 found a small bug in page 55, bullet 5, last word says "if direction flag is zero" instead of the correct "if direction flag is one".
 
 
 NOTES:

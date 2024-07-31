@@ -1,7 +1,7 @@
 # Programming Boot Sector Games
 #### by Oscar Toledo G. [http://nanochess.org/](http://nanochess.org/)
 
-### Errate for the book: (Aug/31/2020)
+### Errata for the book: (Aug/31/2020)
 
 Even though all my efforts, Craig Turner found a pair of mistakes on the instruction set appendix.
 
@@ -47,15 +47,19 @@ These are some of the example programs documented profusely in the book:
 
 These games/programs have its own Git and can differ slightly from the published version because of enhancements:
 
-  https://github.com/nanochess/fbird
-  https://github.com/nanochess/Invaders
-  https://github.com/nanochess/Pillman
-  https://github.com/nanochess/Toledo-Atomchess
-  https://github.com/nanochess/bootBASIC
+  * [https://github.com/nanochess/fbird](https://github.com/nanochess/fbird)
+  
+  * [https://github.com/nanochess/Invaders](https://github.com/nanochess/Invaders)
+  
+  * [https://github.com/nanochess/Pillman](https://github.com/nanochess/Pillman)
+  
+  * [https://github.com/nanochess/Toledo-Atomchess](https://github.com/nanochess/Toledo-Atomchess)
+  
+  * [https://github.com/nanochess/bootBASIC](https://github.com/nanochess/bootBASIC)
   
 Don't forget to see also bootOS, a tiny operating system in only 512 bytes:
 
-  https://github.com/nanochess/bootOS
+  * [https://github.com/nanochess/bootOS](https://github.com/nanochess/bootOS)
 
 After the success of my first book, if you need even More Boot Sector Games then you must get this book!
 

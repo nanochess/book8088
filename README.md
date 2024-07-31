@@ -47,14 +47,10 @@ These are some of the example programs documented profusely in the book:
 
 These games/programs have its own Git and can differ slightly from the published version because of enhancements:
 
-  * [https://github.com/nanochess/fbird](https://github.com/nanochess/fbird)
-  
+  * [https://github.com/nanochess/fbird](https://github.com/nanochess/fbird)  
   * [https://github.com/nanochess/Invaders](https://github.com/nanochess/Invaders)
-  
   * [https://github.com/nanochess/Pillman](https://github.com/nanochess/Pillman)
-  
   * [https://github.com/nanochess/Toledo-Atomchess](https://github.com/nanochess/Toledo-Atomchess)
-  
   * [https://github.com/nanochess/bootBASIC](https://github.com/nanochess/bootBASIC)
   
 Don't forget to see also bootOS, a tiny operating system in only 512 bytes:

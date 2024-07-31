@@ -27,11 +27,9 @@ also you'll find a 8086/8088 crash course!
 
 Now available from Lulu:
 
-  Paperback edition 
-    [http://www.lulu.com/shop/oscar-toledo-gutierrez/programming-boot-sector-games/paperback/product-24188564.html](http://www.lulu.com/shop/oscar-toledo-gutierrez/programming-boot-sector-games/paperback/product-24188564.html)
+  * Paperback edition [http://www.lulu.com/shop/oscar-toledo-gutierrez/programming-boot-sector-games/paperback/product-24188564.html](http://www.lulu.com/shop/oscar-toledo-gutierrez/programming-boot-sector-games/paperback/product-24188564.html)
 
-  Hard-cover
-    [http://www.lulu.com/shop/oscar-toledo-gutierrez/programming-boot-sector-games/hardcover/product-24188530.html](http://www.lulu.com/shop/oscar-toledo-gutierrez/programming-boot-sector-games/hardcover/product-24188530.html)
+  * Hard-cover edition [http://www.lulu.com/shop/oscar-toledo-gutierrez/programming-boot-sector-games/hardcover/product-24188530.html](http://www.lulu.com/shop/oscar-toledo-gutierrez/programming-boot-sector-games/hardcover/product-24188530.html)
 
 These are some of the example programs documented profusely in the book:
 
@@ -59,11 +57,9 @@ Don't forget to see also bootOS, a tiny operating system in only 512 bytes:
 
 After the success of my first book, if you need even More Boot Sector Games then you must get this book!
 
-  Soft-cover
-    [http://www.lulu.com/shop/oscar-toledo-gutierrez/more-boot-sector-games/paperback/product-24462035.html](http://www.lulu.com/shop/oscar-toledo-gutierrez/more-boot-sector-games/paperback/product-24462035.html)
+  * Paperback edition [http://www.lulu.com/shop/oscar-toledo-gutierrez/more-boot-sector-games/paperback/product-24462035.html](http://www.lulu.com/shop/oscar-toledo-gutierrez/more-boot-sector-games/paperback/product-24462035.html)
 
-  Hard-cover
-    [http://www.lulu.com/shop/oscar-toledo-gutierrez/more-boot-sector-games/hardcover/product-24462029.html](http://www.lulu.com/shop/oscar-toledo-gutierrez/more-boot-sector-games/hardcover/product-24462029.html)
+  * Hardcover edition [http://www.lulu.com/shop/oscar-toledo-gutierrez/more-boot-sector-games/hardcover/product-24462029.html](http://www.lulu.com/shop/oscar-toledo-gutierrez/more-boot-sector-games/hardcover/product-24462029.html)
 
 These are some of the example programs documented profusely
 in the book:
